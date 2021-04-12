@@ -9,6 +9,8 @@ An Unofficial Application for Riot Games's Games.
 
 ## Project Goal
 Combine All Riot Games's Games with Installer & auto-updater for them 
+
+![Example Picture](./images/Example.png)
 	
 ## Technologies
 Project is created with:
